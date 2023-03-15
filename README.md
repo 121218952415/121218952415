@@ -1,5 +1,5 @@
 <p align="center">
-  <img src="https://www.upb.edu.co/es/imagenes/img-tecnologiaenlohumano-2018interna3-1464178696477.jpg" alt="Logo" />
+  <img src="https://es.123rf.com/photo_150000327_interior-de-noche-de-dormitorio-de-adolescente-jugador-programador-hacker-o-comerciante-con-m%C3%BAltiple.html" />
 </p>
 
 ¿Quien soy ?
