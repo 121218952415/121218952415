@@ -1,5 +1,4 @@
- ![Logo](https://www.upb.edu.co/es/imagenes/img-tecnologiaenlohumano-2018interna3-1464178696477.jpg")
-   
+![Logo](https://www.upb.edu.co/es/imagenes/img-tecnologiaenlohumano-2018interna3-1464178696477.jpg)
 ¿Quien soy ?
 
 Soy desarrollador back-end
