@@ -1,4 +1,4 @@
-HOLA ! Mi nombre es Alexis Vega
+CONSOLE.LOG(HELLO)
 
 ¿Quien soy ?
 
