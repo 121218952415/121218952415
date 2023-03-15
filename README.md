@@ -1,7 +1,6 @@
 <p align="center">
-  <img src="https://www.upb.edu.co/es/imagenes/img-tecnologiaenlohumano-2018interna3-1464178696477.jpg" />
+  <img src="https://www.epitech-it.es/wp-content/uploads/2022/07/que-es-un-algoritmo.jpg" />
 </p>
-
 
 ¿Quien soy ?
 
