@@ -1,4 +1,4 @@
-CONSOLE.LOG(HELLO)
+https://www.aauniv.com/s/blog/wp-content/uploads/2022/03/lenguajes-de-programacion-1024x572.jpeg
 
 ¿Quien soy ?
 
