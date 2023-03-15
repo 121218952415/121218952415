@@ -26,7 +26,9 @@ Actualmente me dedico a realizar proyectos que me permiten avanzar en mi formaci
   <img src="https://img.icons8.com/ios-glyphs/48/000000/github.png" alt="GitHub" title="GitHub" />
   <img src="https://img.icons8.com/color/48/000000/git.png" alt="Git" title="Git" />
   <img src="https://img.icons8.com/color/48/000000/postgresql.png" alt="PostgreSQL" title="PostgreSQL" />
+  <img src="https://img.icons8.com/color/48/000000/sql.png" alt="SQL" title="SQL" />
 </p>
+
 
 No dudes en contratarme juntos podemos logras nuevos proyectos
 
