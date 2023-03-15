@@ -25,10 +25,10 @@ Actualmente me dedico a realizar proyectos que me permiten avanzar en mi formaci
   <img src="https://img.icons8.com/color/48/000000/javascript.png" alt="JavaScript" title="JavaScript" />
   <img src="https://img.icons8.com/ios-glyphs/48/000000/github.png" alt="GitHub" title="GitHub" />
   <img src="https://img.icons8.com/color/48/000000/git.png" alt="Git" title="Git" />
-  <img src="![image](https://user-images.githubusercontent.com/110263718/225242815-fad388ab-4fd0-4f5b-98f3-38d93a589b84.png)
-" alt="PostgreSQL" title="PostgreSQL" />
+  <img src="https://img.icons8.com/color/48/000000/postgreesql.png" alt="PostgreSQL" title="PostgreSQL" />
   <img src="https://img.icons8.com/color/48/000000/sql.png" alt="SQL" title="SQL" />
 </p>
+
 
 
 No dudes en contratarme juntos podemos logras nuevos proyectos
