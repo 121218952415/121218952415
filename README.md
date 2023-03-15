@@ -33,11 +33,10 @@ Actualmente me dedico a realizar proyectos que me permiten avanzar en mi formaci
 
 No dudes en contratarme juntos podemos logras nuevos proyectos
 
-linkedin https://www.linkedin.com/in/alexis-vega-becerril/
-📫 How to reach me: adrian.alexis.vega@gmail.com
+
 
 <p align="center">
-  <a href="adrian.alexis.vegaqgmail.com"><img src="https://img.icons8.com/material-rounded/24/000000/email.png" alt="Correo electrónico" title="Correo electrónico" /></a>
+  <a href="adrian.alexis.vega@gmail.com"><img src="https://img.icons8.com/material-rounded/24/000000/email.png" alt="Correo electrónico" title="Correo electrónico" /></a>
   <a href="https://www.linkedin.com/in/alexis-vega-becerril/"><img src="https://img.icons8.com/material-rounded/24/000000/linkedin.png" alt="LinkedIn" title="LinkedIn" /></a>
 </p>
 
