@@ -2,16 +2,24 @@
   <img src="https://www.epitech-it.es/wp-content/uploads/2022/07/que-es-un-algoritmo.jpg" />
 </p>
 
-¿Quien soy ?
-
-Soy desarrollador back-end
-A los 17 años inicie una carrera tecnica en computacion y fue la primera ves que hice codigo en la actualidad ese conocimiento me llevo a entrar al mundo de it y ahora siento que estoy en el lugar indicado
-
-¿Que hago?
-
-Actualmente me dedico a realizar proyectos que me permiten avanzar en mi formacion como programador , mi ingenio e iniciativa me llevaron a lograr proyectos y aprender cada dia de los mismo
-
-¿ A donde me dirigo ? Mi objetivo principal es impactar el mundo con codigo! No disfruto la programacion por la demanda que hay en el mercado Disfruto la programacion y disfruto tener retos a diario , si no hay un no de por medio se puede crear o hacer. disfruto ampliar mis conocimientos y ponerlos a prueba
+<p style="font-size: 20px; font-family: Arial, sans-serif;">
+  <strong>¿Quién soy?</strong>
+</p>
+<p style="font-size: 16px; font-family: Arial, sans-serif;">
+  Soy desarrollador back-end. A los 17 años inicié una carrera técnica en computación y fue la primera vez que hice código. En la actualidad, ese conocimiento me llevó a entrar al mundo de IT y ahora siento que estoy en el lugar indicado.
+</p>
+<p style="font-size: 20px; font-family: Arial, sans-serif;">
+  <strong>¿Qué hago?</strong>
+</p>
+<p style="font-size: 16px; font-family: Arial, sans-serif;">
+  Actualmente me dedico a realizar proyectos que me permiten avanzar en mi formación como programador. Mi ingenio e iniciativa me llevaron a lograr proyectos y aprender cada día de los mismos.
+</p>
+<p style="font-size: 20px; font-family: Arial, sans-serif;">
+  <strong>¿A dónde me dirijo?</strong>
+</p>
+<p style="font-size: 16px; font-family: Arial, sans-serif;">
+  Mi objetivo principal es impactar el mundo con código. No disfruto la programación por la demanda que hay en el mercado, disfruto la programación y disfruto tener retos a diario. Si no hay un "no" de por medio, se puede crear o hacer. Disfruto ampliar mis conocimientos y ponerlos a prueba.
+</p>
 
 ¿Que tecnologias uso?
 
