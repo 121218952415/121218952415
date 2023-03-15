@@ -1,5 +1,5 @@
  <p align="center">
-     <img src="[url_de_tu_imagen](https://www.upb.edu.co/es/imagenes/img-tecnologiaenlohumano-2018interna3-1464178696477.jpg)" />
+    ![Logo](https://www.upb.edu.co/es/imagenes/img-tecnologiaenlohumano-2018interna3-1464178696477.jpg")
    </p>
 ¿Quien soy ?
 
