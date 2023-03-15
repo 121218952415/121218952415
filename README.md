@@ -1,4 +1,3 @@
-![Logo](https://www.upb.edu.co/es/imagenes/img-tecnologiaenlohumano-2018interna3-1464178696477.jpg)
 <p align="center">
   <img src="https://www.upb.edu.co/es/imagenes/img-tecnologiaenlohumano-2018interna3-1464178696477.jpg" alt="Logo" />
 </p>
