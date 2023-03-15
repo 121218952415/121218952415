@@ -1,5 +1,5 @@
 
-![Logo](https://www.aauniv.com/s/blog/wp-content/uploads/2022/03/lenguajes-de-programacion-1024x572.jpeg)
+![Logo](https://www.upb.edu.co/es/imagenes/img-tecnologiaenlohumano-2018interna3-1464178696477.jpg)
 ¿Quien soy ?
 
 Soy desarrollador back-end
