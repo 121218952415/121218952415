@@ -24,5 +24,4 @@ linkedin https://www.linkedin.com/in/alexis-vega-becerril/
 📫 How to reach me: adrian.alexis.vega@gmail.com
 
 ## 🔗 Links
-[![linkedin](https://www.linkedin.com/in/alexis-vega-becerril/)
-[
+[linkedin](https://www.linkedin.com/in/alexis-vega-becerril/)
