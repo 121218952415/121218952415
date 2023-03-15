@@ -15,10 +15,18 @@ Actualmente me dedico a realizar proyectos que me permiten avanzar en mi formaci
 
 ¿Que tecnologias uso?
 
-🔹NODE.JS
-🔹SEQUELIZE 🔹TYPESCRIPT
-🔹EXPRESS
-🔹MONGODB 🔹MONGOOSE 🔹JAVASCRIPT 🔹GIT HUB 🔹GIT 🔹POSTGRESSQL
+<p align="center">
+  <img src="https://img.icons8.com/color/48/000000/nodejs.png" alt="Node.js" title="Node.js" />
+  <img src="https://img.icons8.com/color/48/000000/sequelize.png" alt="Sequelize" title="Sequelize" />
+  <img src="https://img.icons8.com/color/48/000000/typescript.png" alt="TypeScript" title="TypeScript" />
+  <img src="https://img.icons8.com/color/48/000000/express.png" alt="Express" title="Express" />
+  <img src="https://img.icons8.com/color/48/000000/mongodb.png" alt="MongoDB" title="MongoDB" />
+  <img src="https://img.icons8.com/color/48/000000/mongoose.png" alt="Mongoose" title="Mongoose" />
+  <img src="https://img.icons8.com/color/48/000000/javascript.png" alt="JavaScript" title="JavaScript" />
+  <img src="https://img.icons8.com/ios-glyphs/48/000000/github.png" alt="GitHub" title="GitHub" />
+  <img src="https://img.icons8.com/color/48/000000/git.png" alt="Git" title="Git" />
+  <img src="https://img.icons8.com/color/48/000000/postgresql.png" alt="PostgreSQL" title="PostgreSQL" />
+</p>
 
 No dudes en contratarme juntos podemos logras nuevos proyectos
 
