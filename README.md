@@ -17,7 +17,7 @@ Actualmente me dedico a realizar proyectos que me permiten avanzar en mi formaci
 
 <p align="center">
   <img src="https://img.icons8.com/color/48/000000/nodejs.png" alt="Node.js" title="Node.js" />
-  <img src="https://img.icons8.com/color/48/000000/sequelize.png" alt="Sequelize" title="Sequelize" />
+  <img src="https://avatars.githubusercontent.com/u/3591786?s=280&v=4" alt="Sequelize" title="Sequelize" />
   <img src="https://img.icons8.com/color/48/000000/typescript.png" alt="TypeScript" title="TypeScript" />
   <img src="https://img.icons8.com/color/48/000000/express.png" alt="Express" title="Express" />
   <img src="https://img.icons8.com/color/48/000000/mongodb.png" alt="MongoDB" title="MongoDB" />
