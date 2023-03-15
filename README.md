@@ -36,5 +36,8 @@ No dudes en contratarme juntos podemos logras nuevos proyectos
 linkedin https://www.linkedin.com/in/alexis-vega-becerril/
 📫 How to reach me: adrian.alexis.vega@gmail.com
 
-## 🔗 Links
-[linkedin](https://www.linkedin.com/in/alexis-vega-becerril/)
+<p align="center">
+  <a href="adrian.alexis.vegaqgmail.com"><img src="https://img.icons8.com/material-rounded/24/000000/email.png" alt="Correo electrónico" title="Correo electrónico" /></a>
+  <a href="https://www.linkedin.com/in/alexis-vega-becerril/"><img src="https://img.icons8.com/material-rounded/24/000000/linkedin.png" alt="LinkedIn" title="LinkedIn" /></a>
+</p>
+
