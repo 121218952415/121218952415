@@ -19,6 +19,8 @@ Actualmente me dedico a realizar proyectos que me permiten avanzar en mi formaci
 🔹MONGODB 🔹MONGOOSE 🔹JAVASCRIPT 🔹GIT HUB 🔹GIT 🔹POSTGRESSQL
 
 No dudes en contratarme juntos podemos logras nuevos proyectos
+
+linkedin https://www.linkedin.com/in/alexis-vega-becerril/
 📫 How to reach me: adrian.alexis.vega@gmail.com
 
 <!--
